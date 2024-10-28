@@ -1,2 +1,2 @@
 # TimeSeriesForecastDeploy
-Here is the deployin a prohet model on Azure 
+This repository includes Deploying a Prototype Model on Azure 
